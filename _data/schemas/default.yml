@@ -48,6 +48,7 @@ resource_fields:
       - kml
       - kmz
       - Link
+      - npm Modul
       - PDF Dokument
       - shp
       - xml
