@@ -7,8 +7,8 @@ resources:
   - name: Schriftliche Anfrage
     url: >-
       https://kleineanfragen.de/bayern/17/23223-open-data-fuer-den-oepnv-in-bayern
-    format: api
-license: 'https://creativecommons.org/publicdomain/zero/1.0/'
+    format: PDF-Dokument
+license: 'http://opendatacommons.org/licenses/odbl/1.0/'
 category:
   - Dokumente
 maintainer: 'Staatsministerium für Wohnen, Bau und Verkehr'
