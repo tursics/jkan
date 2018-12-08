@@ -2,11 +2,17 @@
 schema: default
 title: Karte der Verkehrs- und Tarifverbünde in Deutschland
 organization: Alexey Valikov
-notes: Dieses Repository stellt die Karte der Verkehrs- und Tarifverbünde in Deutschland bereit. Es bietet ein QGIS-Projekt mit Geodaten der Verkehrs- und Tarifverbünde in Vektor-Form (ShapeFiles).
+notes: >-
+  Dieses Repository stellt die Karte der Verkehrs- und Tarifverbünde in
+  Deutschland bereit. Es bietet ein QGIS-Projekt mit Geodaten der Verkehrs- und
+  Tarifverbünde in Vektor-Form (ShapeFiles).
 resources:
+  - name: Liste
+    url: 'https://github.com/highsource/verbundkarte/'
+    format: Link
 license: ''
 category:
-  - Transportation
+  - Dokumente
 maintainer: Alexey Valikov
-maintainer_email: https://github.com/highsource
+maintainer_email: 'https://github.com/highsource'
 ---
