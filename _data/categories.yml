@@ -7,6 +7,12 @@
 - name: Dokumente
   logo: /img/categories/elections-politics.svg
   featured: true
+- name: Webseiten
+  logo: /img/categories/environment.svg
+  featured: true
+- name: Apps
+  logo: /img/categories/arts-culture-history.svg
+  featured: true
 - name: Arts / Culture / History
   logo: /img/categories/arts-culture-history.svg
   featured: false

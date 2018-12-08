@@ -9,13 +9,13 @@ notes: >-
 resources:
   - name: Webseite
     url: 'https://data.wdr.de/bahn-check/'
-    format: html
+    format: Link
   - name: Source Code
     url: 'https://github.com/wdr-data/bahn-anbieter-karte'
-    format: html
-license: ''
+    format: Link
+license: 'https://opensource.org/licenses/MIT'
 category:
-  - Dokumente
-maintainer: Westdeutscher Rundfunk Köln
-maintainer_email: redaktion@wdr.de
+  - Webseiten
+maintainer: Westdeutscher Rundfunk
+maintainer_email: data@wdr.de
 ---
