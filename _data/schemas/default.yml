@@ -47,7 +47,7 @@ resource_fields:
       - json
       - kml
       - kmz
-	  - PDF-Dokument
+	  - PDF
       - shp
       - xml
 

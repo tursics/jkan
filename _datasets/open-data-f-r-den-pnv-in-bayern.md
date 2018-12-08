@@ -7,7 +7,7 @@ resources:
   - name: Schriftliche Anfrage
     url: >-
       https://kleineanfragen.de/bayern/17/23223-open-data-fuer-den-oepnv-in-bayern
-    format: PDF-Dokument
+    format: PDF
 license: 'http://opendatacommons.org/licenses/odbl/1.0/'
 category:
   - Dokumente
