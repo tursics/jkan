@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: bf98a1b877bb090f600d
-gatekeeper_host: https://tursics-jkan.herokuapp.com
+github_client_id: cbca32701baff2326114
+gatekeeper_host: https://tursics-opentransportdata.herokuapp.com
 
 # Dataset schema
 schema: default
