@@ -1,7 +1,7 @@
-title: JKAN
+title: OpenTransportData
 greeting: Welcome to JKAN
 description: A lightweight, backend-free open data portal, powered by Jekyll.
-baseurl: /jkan
+baseurl: /opentransportdata.de
 logo: /img/jkan.png
 
 # Site theme
