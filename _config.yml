@@ -5,7 +5,7 @@ baseurl: /opentransportdata.de
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Default
+jkan_theme: Superhero
 
 # Authentication
 github_client_id: cbca32701baff2326114
